@@ -10,8 +10,6 @@ nav_order: 0
 <p><b>I am a student of Computer Science and Media 💻 at Hochschule der Medien in Stuttgart.</b></p>
 </div>
 
-<!-- ![Copyright @ Tubemoments.com, Oliver Filipzik](img/Andi_Basketball.jpg) -->
-
 [Bio](/pages/bio.md){: .btn .btn-purple}
 [Skills](/pages/skills.md){: .btn .btn-purple}
 [Projects](/pages/projects.md){: .btn .btn-purple}
