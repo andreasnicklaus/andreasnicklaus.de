@@ -15,8 +15,8 @@ nav_order: 3
 - [Concept](#concept)
 - [Rock, Paper, Scissors](#rock-paper-scissors)
 
+<img src="../img/Leto.svg" width="50%"/>
 
-# Leto
 Business
 {: .label .label-purple}
 Vue JS
@@ -24,8 +24,8 @@ Vue JS
 Electron
 {: .label}
 
-<img src="../img/Leto.svg" width="50%"/>
-{: .text-center}
+# Leto
+{: .mt-0}
 
 Locally managed appointment and business manager for physiotherapy.
 
@@ -33,7 +33,9 @@ Locally managed appointment and business manager for physiotherapy.
 [Github](https://github.com/Calpollo/Leto){: .btn}
 
 ---
-# Social Media News Bot
+<span/>
+
+<img src="../img/NEWS.png" width="50%" style="border-radius: 5px;"/>
 
 Python
 {: .label .label-blue }
@@ -44,8 +46,8 @@ API
 Project
 {: .label .label-red }
 
-<img src="../img/NEWS.png" width="50%" style="border-radius: 5px;"/>
-{: .text-center}
+# Social Media News Bot
+{: .mt-0}
 
 Automated Bot to create Reels for Instagram.
 
@@ -54,7 +56,11 @@ Automated Bot to create Reels for Instagram.
 [Documentation](https://andreasnicklaus.github.io/news-social-media/){: .btn }
 
 ---
-# Chrome Link Extractor
+<span/>
+
+<img src="../img/chrome-link-extractor.png" width="50%" style="border-radius: 5px;"/>
+{: .text-center}
+
 Chrome Extension
 {: .label }
 JavaScript
@@ -62,15 +68,16 @@ JavaScript
 Project
 {: .label .label-red }
 
-<img src="../img/chrome-link-extractor.png" width="50%" style="border-radius: 5px;"/>
-{: .text-center}
+# Chrome Link Extractor
+{: .mt-0}
 
 Extract Emails and Links from any page and sites that are referenced by the page's sitemap.
 
 [Github](https://github.com/andreasnicklaus/chrome-link-extractor){: .btn .btn-purple}
 
 ---
-# Spyfall
+<span/>
+
 Multiplayer Game
 {: .label }
 Project
@@ -82,12 +89,16 @@ NodeJS
 Material UI
 {: .label }
 
+# Spyfall
+{: .mt-0}
+
 Mutliplayer Online Card Game about deception and tactical questioning
 
 [Github](https://github.com/andreasnicklaus/spyfall){: .btn .btn-purple}
 
 ---
-# Werewolves Dawn
+<span/>
+
 Multiplayer Game
 {: .label }
 Project
@@ -97,12 +108,16 @@ Angular
 NodeJS
 {: .label .label-green }
 
+# Werewolves Dawn
+{: .mt-0}
+
 Mutliplayer Online Card Game based on the popular game `Werewölfe vom Düsterwald`
 
 [Github](https://github.com/andreasnicklaus/werewolves-dawn){: .btn .btn-purple}
 
 ---
-# Concept
+<span/>
+
 Multiplayer Game
 {: .label }
 Project
@@ -112,18 +127,25 @@ VueJS
 NodeJS
 {: .label .label-green }
 
+# Concept
+{: .mt-0}
+
 Mutliplayer Online Board Game for guessing words based on placed markers
 
 [Github](https://github.com/andreasnicklaus/concept-game){: .btn .btn-purple}
 
 ---
-# Rock, Paper, Scissors
+<span/>
+
 Simulation
 {: .label }
 Project
 {: .label .label-red }
 VueJS
 {: .label .label-green }
+
+# Rock, Paper, Scissors
+{: .mt-0}
 
 Simulation of independent figures playing rock, paper, scissors
 

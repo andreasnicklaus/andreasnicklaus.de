@@ -1,11 +1,9 @@
 title: Andreas Nicklaus
 url: https://www.andreasnicklaus.de
 baseurl: /
-# twitter_username: andreasnicklaus
-# github_username:  andreasnicklaus
-footer_content: >
-  Copyright &copy; 2024 Andreas Nicklaus. Distributed by an <a href=\"https://github.com/andreasnicklaus/andreasnicklaus.de/tree/main/LICENSE.txt\">MIT license.</a>
 color_scheme: dark
+
+favicon_ico: "/img/favicon.ico"
 
 # Build settings
 theme: just-the-docs

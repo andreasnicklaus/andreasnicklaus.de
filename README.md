@@ -35,11 +35,11 @@ nav_order: 0
 # Github Stats
 {: .text-center}
 
-![Github Tropies](https://github-profile-trophy.vercel.app/?username=andreasnicklaus&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&theme=dracula&no-frame=true&no-bg=true&column=3)
+![Github Tropies](https://github-profile-trophy.vercel.app/?username=andreasnicklaus&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&theme=darkhub&no-frame=true&no-bg=true&column=3)
 {: .d-flex .flex-justify-around}
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=andreasnicklaus&show_icons=true&theme=transparent&locale=de&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=andreasnicklaus&show_icons=true&theme=transparent&locale=de&hide_border=true&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=andreasnicklaus&show_icons=true&theme=transparent&locale=de&hide_border=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=contribs)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=andreasnicklaus&show_icons=true&theme=transparent&locale=de&hide_border=true&layout=compact&langs_count=8)
 {: .d-flex .flex-justify-around}
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreasnicklaus&theme=transparent&hide_border=true&locale=de&date_format=j%20M%5B%20Y%5D)
@@ -48,5 +48,5 @@ nav_order: 0
 ![Github Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreasnicklaus&theme=transparent)
 {: .d-flex .flex-justify-around}
 
-![Github Contributions](https://github-readme-activity-graph.vercel.app/graph?username=andreasnicklaus&theme=github-compact&hide_border=true)
+![Github Contributions](https://github-readme-activity-graph.vercel.app/graph?username=andreasnicklaus&theme=github-compact&hide_border=true&line=006aff&title_color=006aff)
 {: .d-flex .flex-justify-around}
