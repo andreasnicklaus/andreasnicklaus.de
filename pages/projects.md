@@ -7,8 +7,6 @@ nav_order: 3
 
 <h1>Projects</h1>
 
-<!-- TODO: add images -->
-
 - [Leto](#leto)
 - [Social Media News Bot](#social-media-news-bot)
 - [Chrome Link Extractor](#chrome-link-extractor)
@@ -26,6 +24,9 @@ Vue JS
 Electron
 {: .label}
 
+<img src="../img/Leto.svg" width="50%"/>
+{: .text-center}
+
 Locally managed appointment and business manager for physiotherapy.
 
 [Website](https://leto.andreasnicklaus.de){: .btn .btn-purple}
@@ -33,6 +34,7 @@ Locally managed appointment and business manager for physiotherapy.
 
 ---
 # Social Media News Bot
+
 Python
 {: .label .label-blue }
 Bot
@@ -41,6 +43,9 @@ API
 {: .label .label-purple }
 Project
 {: .label .label-red }
+
+<img src="../img/NEWS.png" width="50%" style="border-radius: 5px;"/>
+{: .text-center}
 
 Automated Bot to create Reels for Instagram.
 
@@ -56,6 +61,9 @@ JavaScript
 {: .label .label-yellow }
 Project
 {: .label .label-red }
+
+<img src="../img/chrome-link-extractor.png" width="50%" style="border-radius: 5px;"/>
+{: .text-center}
 
 Extract Emails and Links from any page and sites that are referenced by the page's sitemap.
 
@@ -119,6 +127,11 @@ VueJS
 
 Simulation of independent figures playing rock, paper, scissors
 
-
 [Website](https://rps.andreasnicklaus.de/){: .btn .btn-purple}
 [Github](https://github.com/andreasnicklaus/rockpaperscissors){: .btn}
+
+---
+
+<p style="text-align: center">
+<a href="https://github.com/andreasnicklaus" class="btn">More Projects on Github</a>
+</p>

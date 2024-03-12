@@ -13,6 +13,10 @@ plugins:
   - jekyll-relative-links
   - jekyll-sitemap
 
+callouts:
+  custom:
+    color: grey-dk
+
 mermaid:
   version: "9.1.3"
 

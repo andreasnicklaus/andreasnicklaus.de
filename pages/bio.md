@@ -10,8 +10,6 @@ nav_order: 1
 - [Professional Work Experiences](#professional-work-experiences)
 - [Special Accomplishments / Interests](#special-accomplishments--interests)
 
-<!-- TODO: add profile picture -->
-
 # Personal Data
 
 Last Name | Nicklaus
