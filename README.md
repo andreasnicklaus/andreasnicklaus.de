@@ -10,11 +10,11 @@ nav_order: 0
 <p><b>I am a student of Computer Science and Media 💻 at Hochschule der Medien in Stuttgart.</b></p>
 </div>
 
-[Bio](/pages/bio.md){: .btn .btn-purple}
-[Skills](/pages/skills.md){: .btn .btn-purple}
-[Projects](/pages/projects.md){: .btn .btn-purple}
-[Papers & Presentations](/pages/presentations_papers.md){: .btn .btn-purple}
-{: .d-flex .flex-justify-around}
+[Bio](/pages/bio.md){: .btn .btn-purple .d-block .d-sm-inline-block}
+[Skills](/pages/skills.md){: .btn .btn-purple .d-block .d-sm-inline-block}
+[Projects](/pages/projects.md){: .btn .btn-purple .d-block .d-sm-inline-block}
+[Papers & Presentations](/pages/presentations_papers.md){: .btn .btn-purple .d-block .d-sm-inline-block}
+{: .d-sm-flex .flex-justify-around}
 
 ---
 
@@ -39,6 +39,8 @@ nav_order: 0
 {: .d-flex .flex-justify-around}
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=andreasnicklaus&show_icons=true&theme=transparent&locale=de&hide_border=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=contribs)
+{: .d-flex .flex-justify-around}
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=andreasnicklaus&show_icons=true&theme=transparent&locale=de&hide_border=true&layout=compact&langs_count=8)
 {: .d-flex .flex-justify-around}
 
