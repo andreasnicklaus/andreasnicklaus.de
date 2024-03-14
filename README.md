@@ -10,9 +10,9 @@ nav_order: 0
 <p><b>I am a student of Computer Science and Media 💻 at Hochschule der Medien in Stuttgart.</b></p>
 </div>
 
-[Bio](/pages/bio.md){: .btn .btn-purple .d-block .d-sm-inline-block}
-[Skills](/pages/skills.md){: .btn .btn-purple .d-block .d-sm-inline-block}
-[Projects](/pages/projects.md){: .btn .btn-purple .d-block .d-sm-inline-block}
+[Bio](/pages/bio.md){: .btn .btn-purple .d-block .d-sm-inline-block .mb-2 .mb-sm-0}
+[Skills](/pages/skills.md){: .btn .btn-purple .d-block .d-sm-inline-block .mb-2 .mb-sm-0}
+[Projects](/pages/projects.md){: .btn .btn-purple .d-block .d-sm-inline-block .mb-2 .mb-sm-0}
 [Papers & Presentations](/pages/presentations_papers.md){: .btn .btn-purple .d-block .d-sm-inline-block}
 {: .d-sm-flex .flex-justify-around}
 
