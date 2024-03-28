@@ -15,9 +15,6 @@ callouts:
   custom:
     color: grey-dk
 
-mermaid:
-  version: "9.1.3"
-
 exclude:
   - .jekyll-cache/
   - Gemfile
