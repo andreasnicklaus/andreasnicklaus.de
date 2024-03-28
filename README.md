@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Start
+title: Home
 permalink: /index.html
 nav_order: 0
 ---
