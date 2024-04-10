@@ -36,7 +36,7 @@ Locally managed appointment and business manager for physiotherapy.
 ---
 <span/>
 
-<img src="https://twitter-post-mockup.vercel.app/?username=Andreas%20Nicklaus&handle=andreasnicklaus&text=Try%20out%20this%20mockup%20generator!&date=Just%20now&os=Linux" width="50%" style="border-radius: 5px;"/>
+<img src="https://twitter-post-mockup.vercel.app/?username=Andreas%20Nicklaus&handle=andreasnicklaus&text=Try%20out%20this%20mockup%20generator!&date=Just%20now&os=Linux&h=500" width="50%" style="border-radius: 5px;"/>
 
 Astro
 {: .label .label-purple }
