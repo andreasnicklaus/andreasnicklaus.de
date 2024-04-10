@@ -8,6 +8,7 @@ nav_order: 3
 <h1>Projects</h1>
 
 - [Leto](#leto)
+- [Twitter Post Mockup](#twitter-post-mockup)
 - [Social Media News Bot](#social-media-news-bot)
 - [Chrome Link Extractor](#chrome-link-extractor)
 - [Spyfall](#spyfall)
@@ -45,6 +46,18 @@ API
 {: .label .label-purple }
 Project
 {: .label .label-red }
+
+# Twitter Post Mockup
+{: .mt-0}
+
+Create Mockup Tweets via URL-Parameters
+
+[Try it out](https://twitter-post-mockup.vercel.app/){: .btn .btn-purple}
+[Github](https://github.com/andreasnicklaus/twitter-post-mockup){: .btn}
+[Documentation](https://github.com/andreasnicklaus/twitter-post-mockup/blob/main/README.md){: .btn }
+
+---
+<span/>
 
 # Social Media News Bot
 {: .mt-0}
