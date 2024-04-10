@@ -36,11 +36,9 @@ Locally managed appointment and business manager for physiotherapy.
 ---
 <span/>
 
-<img src="../img/NEWS.png" width="50%" style="border-radius: 5px;"/>
+<img src="https://twitter-post-mockup.vercel.app/?username=Andreas%20Nicklaus&handle=andreasnicklaus&text=Try%20out%20this%20mockup%20generator!&date=Just%20now&os=Linux" width="50%" style="border-radius: 5px;"/>
 
-Python
-{: .label .label-blue }
-Bot
+Astro
 {: .label .label-purple }
 API
 {: .label .label-purple }
@@ -58,6 +56,17 @@ Create Mockup Tweets via URL-Parameters
 
 ---
 <span/>
+
+<img src="../img/NEWS.png" width="50%" style="border-radius: 5px;"/>
+
+Python
+{: .label .label-blue }
+Bot
+{: .label .label-purple }
+API
+{: .label .label-purple }
+Project
+{: .label .label-red }
 
 # Social Media News Bot
 {: .mt-0}
