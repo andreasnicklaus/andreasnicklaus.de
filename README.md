@@ -5,8 +5,14 @@ permalink: /index.html
 nav_order: 0
 ---
 
-<div style="background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(img/Andi_Basketball.avif); background-position: 50% top; background-size: cover; text-align: center; padding: 80px 20px; color: white; background-filter: darken(.8)">
-<h1>Hi there 👋</h1>
+<style>
+  .tnr {
+    font-family: "Times New Roman", serif;
+  }
+</style>
+
+<div style="background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(img/Andi_Konstanz.avif); background-position: center; background-size: cover; text-align: center; height: 500px; color: white; background-filter: darken(.8); display: flex; flex-direction: column; justify-content: end; padding: 40px 60px;">
+<h1 class="tnr">Hi there 👋</h1>
 <p><b>I am a student of Computer Science and Media 💻 at Hochschule der Medien in Stuttgart.</b></p>
 </div>
 
