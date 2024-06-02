@@ -15,6 +15,7 @@ nav_order: 3
 - [Werewolves Dawn](#werewolves-dawn)
 - [Concept](#concept)
 - [Rock, Paper, Scissors](#rock-paper-scissors)
+- [Game Buzzers](#game-buzzers)
 
 <img src="../img/Leto.svg" width="50%"/>
 
@@ -173,6 +174,28 @@ Simulation of independent figures playing rock, paper, scissors
 
 [Website](https://rps.andreasnicklaus.de/){: .btn .btn-purple}
 [Github](https://github.com/andreasnicklaus/rockpaperscissors){: .btn}
+
+---
+<span/>
+
+<img src="../img/buzzer.png" width="50%" style="border-radius: 5px;"/>
+{: .text-center}
+
+Embedded
+{: .label }
+Project
+{: .label .label-red }
+Arduino
+{: .label .label-green }
+C++
+{: .label .label-blue }
+
+# Game Buzzers
+{: .mt-0}
+
+Embedded code for game buzzers
+
+[Github](https://github.com/andreasnicklaus/game-buzzers){: .btn .btn-purple}
 
 ---
 
