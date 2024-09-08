@@ -19,6 +19,3 @@ exclude:
   - .jekyll-cache/
   - Gemfile
   - Gemfile.lock
-
-include:
-  - ".well-known/mta-sts.txt"
