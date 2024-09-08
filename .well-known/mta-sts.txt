@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: *.mail-redirect.de
+mx: *.mail-redirect.eu
+max_age: 6048
