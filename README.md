@@ -13,7 +13,7 @@ nav_order: 0
 
 <div style="background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(img/Andi_Konstanz.avif); background-position: center; background-size: cover; text-align: center; height: 500px; color: white; background-filter: darken(.8); display: flex; flex-direction: column; justify-content: end; padding: 40px 60px;">
 <h1 class="tnr">Hi there 👋</h1>
-<p><b>I am a student of Computer Science and Media 💻 at Hochschule der Medien in Stuttgart.</b></p>
+<p><b>I am a Computer Scientist and software architect. 💻</b></p>
 </div>
 
 [Bio](/pages/bio.md){: .btn .btn-purple .d-block .d-sm-inline-block .mb-2 .mb-sm-0}
@@ -25,12 +25,13 @@ nav_order: 0
 ---
 
 # Socials
+
 {: .text-center}
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreasnicklaus/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreasnicklaus)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreasnicklaus/)
-[![Medium](  https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Andreas_Nicklaus)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Andreas_Nicklaus)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndreasNicklaus)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AndreasNicklaus)
 [![Buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/andreasnicklaus)
@@ -39,6 +40,7 @@ nav_order: 0
 ---
 
 # Github Stats
+
 {: .text-center}
 
 ![Github Tropies](https://github-profile-trophy.vercel.app/?username=andreasnicklaus&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&theme=darkhub&no-frame=true&no-bg=true&column=3)

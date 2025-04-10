@@ -17,7 +17,6 @@ First Name(s) | Andreas
 Birthday | 20.08.1999
 E-Mail | [andreas.nicklaus@googlemail.com](mailto:andreas.nicklaus@googlemail.com)
 
-
 # Education
 
 2005 - 2009 | Liederbachschule, Liederbach, Germany
@@ -26,13 +25,14 @@ E-Mail | [andreas.nicklaus@googlemail.com](mailto:andreas.nicklaus@googlemail.co
 2015 - 2017 | Clavius Gymnasium, Bamberg, Germany
 2017 | Abitur (Final grade: 1,4) at Clavius Gymnasium, Bamberg
 08/2018 - 02/2022 | Bachelor Studies in Computer Science and Media
-since 09/2022 | Master Studies in Computer Science and Media
+09/2022 - 10/2024 | Master Studies in Computer Science and Media
 
 # Professional Work Experiences
 
 2017 - 2018 | Voluntary Social Year at Brose Bamberg: Organization and Execution of a Youth Sport program at Primary Schools and Camps
 09/2020 - 02/2021 | Internship at IT-Designers GmbH: Development and Deployment of a Machine Learning Lifecycle using Kubernetes
-since 06/2022 | Chief Technological Officer at RS Reisen, Leinfelden-Echterdingen
+06/2022 - 09/2024 | Chief Technological Officer at RS Reisen, Leinfelden-Echterdingen
+since 01/2025 | Solution Architect at sovanta, Heidelberg
 
 # Special Accomplishments / Interests
 
